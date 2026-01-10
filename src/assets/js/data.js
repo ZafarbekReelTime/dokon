@@ -466,7 +466,7 @@ import savat from '../img/icons/basket.png'
 
 import email from '../img/icons/email.png'
 import leave from '../img/icons/leave.png'
-
+ 
 import menu from '../img/icons/menu.png'
 
 import yopish from '../img/icons/close.png'
