@@ -245,7 +245,7 @@ const Futured = () => {
                 </div>
 
                 <div className="grid grid-cols-3 gap-5 max-md:grid-cols-2 max-md:mt-3">
-                    {ProductAPI.slice(0, 10).map((item) => (
+                    {ProductAPI.map((item) => (
                         <Link key={item.id} to={`/product/${item.id}`}>
                             <div>
                                 <img

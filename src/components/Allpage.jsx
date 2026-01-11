@@ -16,19 +16,19 @@ const Allpage = () => {
                     <Link to='/futured'>
                         Sneakers Model 1
                     </Link>
-                    <Link>
+                    <Link to='/futured'>
                         Cotton Mix Coat
                     </Link>
-                    <Link>
+                    <Link to='/futured'>
                         Black Crew Master
                     </Link>
-                    <Link>
+                    <Link to='/futured'>
                         Reversible Jacket
                     </Link>
-                    <Link>
+                    <Link to='/futured'>
                         Pegasus
                     </Link>
-                    <Link>
+                    <Link to='/futured'>
                         Blazer
                     </Link>
                 </div>
@@ -91,10 +91,10 @@ const Allpage = () => {
                 <Link className="font-medium text-lg" to='/futured'>
                     Featured
                 </Link>
-                <Link className="font-medium text-lg" to='/shoes'>
+                <Link className="font-medium text-lg" to='/futured'>
                     Shoes
                 </Link>
-                <Link className="font-medium text-lg" to='/clothing'>
+                <Link className="font-medium text-lg" to='/futured'>
                     Clothing
                 </Link>
             </section>

@@ -75,7 +75,7 @@ export const ProductAPI = [
     },
     {
         id: 6,
-        cardImage: cardimg1,
+        cardImage: cardimg2,
         cardimageType: [cardimg1, cardimg2, cardimg3, cardimg2,],
         desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa magnam aliquid placeat optio tenetur explicabo odit eligendi nostrum ipsum ad repellat tempore, unde omnis aut molestias, sequi ipsam voluptates doloribus.",
         text: "Just in",
@@ -89,7 +89,7 @@ export const ProductAPI = [
     },
     {
         id: 7,
-        cardImage: cardimg1,
+        cardImage: cardimg3,
         cardimageType: [cardimg1, cardimg2, cardimg3, cardimg2,],
         desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa magnam aliquid placeat optio tenetur explicabo odit eligendi nostrum ipsum ad repellat tempore, unde omnis aut molestias, sequi ipsam voluptates doloribus.",
         text: "Just in",
@@ -103,7 +103,7 @@ export const ProductAPI = [
     },
     {
         id: 8,
-        cardImage: cardimg1,
+        cardImage: cardimg4,
         cardimageType: [cardimg1, cardimg2, cardimg3, cardimg2,],
         desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa magnam aliquid placeat optio tenetur explicabo odit eligendi nostrum ipsum ad repellat tempore, unde omnis aut molestias, sequi ipsam voluptates doloribus.",
         text: "Just in",
@@ -131,7 +131,7 @@ export const ProductAPI = [
     },
     {
         id: 10,
-        cardImage: cardimg1,
+        cardImage: cardimg2,
         cardimageType: [cardimg1, cardimg2, cardimg3, cardimg2,],
         desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa magnam aliquid placeat optio tenetur explicabo odit eligendi nostrum ipsum ad repellat tempore, unde omnis aut molestias, sequi ipsam voluptates doloribus.",
         text: "Just in",
@@ -145,7 +145,7 @@ export const ProductAPI = [
     },
     {
         id: 11,
-        cardImage: cardimg1,
+        cardImage: cardimg3,
         cardimageType: [cardimg1, cardimg2, cardimg3, cardimg2,],
         desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa magnam aliquid placeat optio tenetur explicabo odit eligendi nostrum ipsum ad repellat tempore, unde omnis aut molestias, sequi ipsam voluptates doloribus.",
         text: "Just in",
@@ -159,7 +159,7 @@ export const ProductAPI = [
     },
     {
         id: 12,
-        cardImage: cardimg1,
+        cardImage: cardimg4,
         cardimageType: [cardimg1, cardimg2, cardimg3, cardimg2,],
         desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa magnam aliquid placeat optio tenetur explicabo odit eligendi nostrum ipsum ad repellat tempore, unde omnis aut molestias, sequi ipsam voluptates doloribus.",
         text: "Just in",
@@ -187,7 +187,7 @@ export const ProductAPI = [
     },
     {
         id: 14,
-        cardImage: cardimg1,
+        cardImage: cardimg2,
         cardimageType: [cardimg1, cardimg2, cardimg3, cardimg2,],
         desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa magnam aliquid placeat optio tenetur explicabo odit eligendi nostrum ipsum ad repellat tempore, unde omnis aut molestias, sequi ipsam voluptates doloribus.",
         text: "Just in",
@@ -201,7 +201,7 @@ export const ProductAPI = [
     },
     {
         id: 15,
-        cardImage: cardimg1,
+        cardImage: cardimg3,
         cardimageType: [cardimg1, cardimg2, cardimg3, cardimg2,],
         desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa magnam aliquid placeat optio tenetur explicabo odit eligendi nostrum ipsum ad repellat tempore, unde omnis aut molestias, sequi ipsam voluptates doloribus.",
         text: "Just in",
@@ -215,7 +215,7 @@ export const ProductAPI = [
     },
     {
         id: 16,
-        cardImage: cardimg1,
+        cardImage: cardimg4,
         cardimageType: [cardimg1, cardimg2, cardimg3, cardimg2,],
         desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa magnam aliquid placeat optio tenetur explicabo odit eligendi nostrum ipsum ad repellat tempore, unde omnis aut molestias, sequi ipsam voluptates doloribus.",
         text: "Just in",
@@ -243,7 +243,7 @@ export const ProductAPI = [
     },
     {
         id: 18,
-        cardImage: cardimg1,
+        cardImage: cardimg2,
         cardimageType: [cardimg1, cardimg2, cardimg3, cardimg2,],
         desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa magnam aliquid placeat optio tenetur explicabo odit eligendi nostrum ipsum ad repellat tempore, unde omnis aut molestias, sequi ipsam voluptates doloribus.",
         text: "Just in",
@@ -257,7 +257,7 @@ export const ProductAPI = [
     },
     {
         id: 19,
-        cardImage: cardimg1,
+        cardImage: cardimg3,
         cardimageType: [cardimg1, cardimg2, cardimg3, cardimg2,],
         desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa magnam aliquid placeat optio tenetur explicabo odit eligendi nostrum ipsum ad repellat tempore, unde omnis aut molestias, sequi ipsam voluptates doloribus.",
         text: "Just in",
@@ -271,7 +271,7 @@ export const ProductAPI = [
     },
     {
         id: 20,
-        cardImage: cardimg1,
+        cardImage: cardimg4,
         cardimageType: [cardimg1, cardimg2, cardimg3, cardimg2,],
         desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa magnam aliquid placeat optio tenetur explicabo odit eligendi nostrum ipsum ad repellat tempore, unde omnis aut molestias, sequi ipsam voluptates doloribus.",
         text: "Just in",
@@ -299,7 +299,7 @@ export const ProductAPI = [
     },
     {
         id: 22,
-        cardImage: cardimg1,
+        cardImage: cardimg2,
         cardimageType: [cardimg1, cardimg2, cardimg3, cardimg2,],
         desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa magnam aliquid placeat optio tenetur explicabo odit eligendi nostrum ipsum ad repellat tempore, unde omnis aut molestias, sequi ipsam voluptates doloribus.",
         text: "Just in",
@@ -313,7 +313,7 @@ export const ProductAPI = [
     },
     {
         id: 23,
-        cardImage: cardimg1,
+        cardImage: cardimg3,
         cardimageType: [cardimg1, cardimg2, cardimg3, cardimg2,],
         desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa magnam aliquid placeat optio tenetur explicabo odit eligendi nostrum ipsum ad repellat tempore, unde omnis aut molestias, sequi ipsam voluptates doloribus.",
         text: "Just in",
@@ -327,7 +327,7 @@ export const ProductAPI = [
     },
     {
         id: 24,
-        cardImage: cardimg1,
+        cardImage: cardimg4,
         cardimageType: [cardimg1, cardimg2, cardimg3, cardimg2,],
         desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa magnam aliquid placeat optio tenetur explicabo odit eligendi nostrum ipsum ad repellat tempore, unde omnis aut molestias, sequi ipsam voluptates doloribus.",
         text: "Just in",
@@ -355,7 +355,7 @@ export const ProductAPI = [
     },
     {
         id: 26,
-        cardImage: cardimg1,
+        cardImage: cardimg2,
         cardimageType: [cardimg1, cardimg2, cardimg3, cardimg2,],
         desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa magnam aliquid placeat optio tenetur explicabo odit eligendi nostrum ipsum ad repellat tempore, unde omnis aut molestias, sequi ipsam voluptates doloribus.",
         text: "Just in",
@@ -369,7 +369,7 @@ export const ProductAPI = [
     },
     {
         id: 27,
-        cardImage: cardimg1,
+        cardImage: cardimg3,
         cardimageType: [cardimg1, cardimg2, cardimg3, cardimg2,],
         desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa magnam aliquid placeat optio tenetur explicabo odit eligendi nostrum ipsum ad repellat tempore, unde omnis aut molestias, sequi ipsam voluptates doloribus.",
         text: "Just in",
@@ -383,7 +383,7 @@ export const ProductAPI = [
     },
     {
         id: 28,
-        cardImage: cardimg1,
+        cardImage: cardimg4,
         cardimageType: [cardimg1, cardimg2, cardimg3, cardimg2,],
         desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa magnam aliquid placeat optio tenetur explicabo odit eligendi nostrum ipsum ad repellat tempore, unde omnis aut molestias, sequi ipsam voluptates doloribus.",
         text: "Just in",
@@ -411,7 +411,7 @@ export const ProductAPI = [
     },
     {
         id: 30,
-        cardImage: cardimg1,
+        cardImage: cardimg2,
         cardimageType: [cardimg1, cardimg2, cardimg3, cardimg2,],
         desc: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa magnam aliquid placeat optio tenetur explicabo odit eligendi nostrum ipsum ad repellat tempore, unde omnis aut molestias, sequi ipsam voluptates doloribus.",
         text: "Just in",
@@ -470,7 +470,7 @@ import leave from '../img/icons/leave.png'
 import menu from '../img/icons/menu.png'
 
 import yopish from '../img/icons/close.png'
-import group from '../img/icons/group.png'
+import group from '../img/icons/gr.png'
 import soroq from '../img/icons/soroq.png'
 
 

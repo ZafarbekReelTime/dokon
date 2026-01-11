@@ -1,5 +1,6 @@
 import React from "react";
 import { datacode, ProductAPI } from "../assets/js/data";
+import { Link } from "react-router";
 
 const Product = () => {
   return (
@@ -10,7 +11,7 @@ const Product = () => {
 
       <div className="grid max-md:grid-cols-1 lg:grid-cols-4 gap-4">
         {ProductAPI.slice(0, 4).map((item) => (
-          <div className="hover:border hover:rounded-lg hover:p-1 hover:shadow-sm hover:shadow-blue-500 hover:transition-all hover:duration-200" key={item.id}>
+          <Link className="hover:border hover:rounded-lg hover:p-1 hover:shadow-sm hover:shadow-blue-500 hover:transition-all hover:duration-200" key={item.id} to={`/product/${item.id}`}>
             <img
               src={item.cardImage}
               alt="product"
@@ -20,7 +21,7 @@ const Product = () => {
               {item.cardimageType.slice(0, 3).map((img, index) => (
                 <img width={65} height={100} key={index} src={img} alt="" />
               ))}
-            </div>
+            </div> 
             <div className="flex items-center gap-x-5">
               <span className="font-medium text-red-700">
                 {item.text}
@@ -35,7 +36,7 @@ const Product = () => {
             <p className="font-medium text-sm text-green-500">
               {item.prise}
             </p>
-          </div>
+          </Link>
         ))}
       </div>
     </section>

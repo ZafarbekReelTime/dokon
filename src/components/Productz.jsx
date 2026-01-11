@@ -82,7 +82,7 @@ const Productz = () => {
                             {product.cardimageType.map((_, index) => (
                                 <button
                                     key={index}
-                                    onClick={() => mainSwiper.current?.slideToLoop(index)}
+                                     onClick={() => mainSwiper.current?.slideToLoop(index)}
                                     className={`transition-all duration-200 ${
                                         activeIndex === index
                                             ? "w-4 h-4 border-2 border-black rounded-full flex items-center justify-center"
